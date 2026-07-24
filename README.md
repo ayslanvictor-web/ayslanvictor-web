@@ -15,7 +15,12 @@ Sou desenvolvedor focado na criação de soluções digitais para a web.
 
 ## Projetos
 
-Estou construindo meu portfólio. Em breve, esta seção reunirá projetos de sites, sistemas e automações desenvolvidos por mim.
+### Portfólio profissional
+
+Meu portfólio pessoal, desenvolvido com React, TypeScript e CSS.
+
+- [Acessar o portfólio](https://ayslanvictor-web.github.io)
+- [Ver o código](https://github.com/ayslanvictor-web/ayslanvictor-web.github.io)
 
 ## Contato
 
