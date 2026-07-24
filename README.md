@@ -17,12 +17,6 @@ Sou desenvolvedor focado na criação de soluções digitais para a web.
 
 Estou construindo meu portfólio. Em breve, esta seção reunirá projetos de sites, sistemas e automações desenvolvidos por mim.
 
-## Próximos projetos
-
-- Portfólio profissional
-- Sistema web de gestão
-- Automação de tarefas repetitivas
-
 ## Contato
 
 Você pode acompanhar meus projetos e minha evolução profissional aqui no GitHub.
