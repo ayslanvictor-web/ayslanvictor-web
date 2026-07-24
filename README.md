@@ -1,17 +1,18 @@
 # Olá, eu sou Ayslan Victor 👋
 
-Sou desenvolvedor focado na criação de soluções digitais para a web.
+Sou desenvolvedor focado em transformar problemas em soluções através do código.
 
 ## Áreas de atuação
 
-- Desenvolvimento de sites responsivos
-- Criação de sistemas web
+- Desenvolvimento e integração de APIs
+- Criação de sites e sistemas
+- Correção de bugs e erros
 - Automações para tarefas e processos
 
 ## Tecnologias
 
 - **Front-end:** HTML, CSS, React e TypeScript
-- **Back-end:** Node.js e TypeScript
+- **Back-end:** Node.js, TypeScript e Python
 
 ## Projetos
 
