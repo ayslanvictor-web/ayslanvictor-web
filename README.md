@@ -8,6 +8,11 @@ Sou desenvolvedor focado na criação de soluções digitais para a web.
 - Criação de sistemas web
 - Automações para tarefas e processos
 
+## Tecnologias
+
+- **Front-end:** HTML, CSS, React e TypeScript
+- **Back-end:** Node.js e TypeScript
+
 ## Projetos
 
 Estou construindo meu portfólio. Em breve, esta seção reunirá projetos de sites, sistemas e automações desenvolvidos por mim.
